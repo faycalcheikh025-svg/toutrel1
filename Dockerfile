@@ -1,4 +1,3 @@
-# toutrel1
 FROM teddysun/v2ray:latest
 
 EXPOSE 8080
